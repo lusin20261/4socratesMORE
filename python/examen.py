@@ -1,0 +1,11 @@
+a = input("escribe tu nombre: ")
+b = input("escribe tu comida fav: ")
+c = input("escribe tu depor fav: ")
+d = input("escribe tu animal fav: ")
+e = input("escribe tu color fav: ")
+print("hola soy" ,a)
+print("mi deporte es " ,c, "porque es entretenido")
+print("mi comida fav es " ,b, "porque es rico")
+print("mi animal fav es el " ,d, "es muy comun")
+print("mi color fav es el " ,e, "por la naturaleza")
+
